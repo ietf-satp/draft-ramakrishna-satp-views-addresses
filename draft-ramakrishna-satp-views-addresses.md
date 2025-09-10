@@ -234,17 +234,18 @@ normative:
     - ins: M. Hargreaves
     - ins: N. Smith
     - ins: V. Ramakrishna
-    date: June 2024
+    date: January 2025
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/
-    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-05
+    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-06
   SATP:
     author:
     - ins: M. Hargreaves
     - ins: T. Hardjono
     - ins: R. Belchior
-    date: April 2024
+    - ins: V. Ramakrishna
+    date: January 2025
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-core/
-    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-04
+    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-08
 
 --- abstract
 
