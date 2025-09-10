@@ -130,9 +130,9 @@ informative:
     author:
     - ins: M. Hearn
     - ins: R. G. Brown
-    date: December 2019
-    target: https://www.r3.com/blog/corda-technical-whitepaper/
-    title: 'Corda: A Distributed Ledger, Corda Technical Whitepaper | R3'
+    date: August 2019
+    target: https://docs.r3.com/en/pdf/corda-technical-whitepaper.pdf
+    title: 'Corda: A Distributed Ledger'
   Herl19:
     author:
     - ins: M. Herlihy
@@ -145,8 +145,8 @@ informative:
     - ins: A. Lipton
     - ins: A. Pentland
     date: June 2019
-    target: https://doi:10.1109/TEM.2019.2920154
-    title: Towards and Interoperability Architecture for Blockchain Autonomous Systems, IEEE Transactions on Engineering Management
+    target: https://ieeexplore.ieee.org/document/8743548
+    title: Towards an Interoperability Architecture for Blockchain Autonomous Systems, IEEE Transactions on Engineering Management
   HS2019:
     author:
     - ins: T. Hardjono
@@ -209,13 +209,13 @@ normative:
     - ins: FATF
     date: October 2018
     target: http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html
-    title: International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation - FATF Revision of Recommendation 15
+    title: 'International Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation - The FATF Recommendations'
   ISO:
     author:
     - ins: ISO
-    date: July 2020
+    date: January 2024
     target: https://www.iso.org/standard/82208.html
-    title: Blockchain and distributed ledger technologies-Vocabulary (ISO:22739:2020)
+    title: Blockchain and distributed ledger technologies-Vocabulary (ISO:22739:2024)
   NIST:
     author:
     - ins: D. Yaga
@@ -234,18 +234,19 @@ normative:
     - ins: M. Hargreaves
     - ins: N. Smith
     - ins: V. Ramakrishna
-    date: January 2025
+    date: July 2025
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/
-    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-06
+    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-08
   SATP:
     author:
     - ins: M. Hargreaves
     - ins: T. Hardjono
     - ins: R. Belchior
     - ins: V. Ramakrishna
-    date: January 2025
+    - ins: A. Chiriac
+    date: August 2025
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-core/
-    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-08
+    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-11
 
 --- abstract
 
@@ -269,7 +270,7 @@ The protocol to communicate view requests and responses is beyond the scope of t
 
 {: #terminology-doc}
 
-There following are some terminologies used in the current document:
+The following are some terminology used in the current document:
 
 - Blockchain system: Blockchains are distributed digital ledgers of cryptographically signed transactions that are grouped into blocks.  Each block is cryptographically linked to the previous one (making it tamper evident) after validation and undergoing a consensus decision.  As new blocks are added, older blocks become more difficult to modify (creating tamper resistance). New blocks are replicated across copies of the ledger within the network, and any conflicts are resolved automatically using established rules {{NIST}}.
 
