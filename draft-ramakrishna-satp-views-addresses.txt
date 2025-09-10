@@ -157,7 +157,7 @@ Table of Contents
 
 2.  Terminology
 
-   There following are some terminologies used in the current document:
+   The following are some terminology used in the current document:
 
    *  Blockchain system: Blockchains are distributed digital ledgers of
       cryptographically signed transactions that are grouped into
@@ -898,14 +898,14 @@ Table of Contents
 10.1.  Normative References
 
    [FATF]     FATF, "International Standards on Combating Money
-              Laundering and the Financing of Terrorism and
-              Proliferation - FATF Revision of Recommendation 15",
-              October 2018, <http://www.fatf-
+              Laundering and the Financing of Terrorism & Proliferation
+              - The FATF Recommendations", October 2018,
+              <http://www.fatf-
               gafi.org/publications/fatfrecommendations/documents/fatf-
               recommendations.html>.
 
    [ISO]      ISO, "Blockchain and distributed ledger technologies-
-              Vocabulary (ISO:22739:2020)", July 2020,
+              Vocabulary (ISO:22739:2024)", January 2024,
               <https://www.iso.org/standard/82208.html>.
 
    [NIST]     Yaga, D., Mell, P., Roby, N., and K. Scarfone, "NIST
@@ -930,13 +930,13 @@ Table of Contents
 
    [SATA]     Hardjono, T., Hargreaves, M., Smith, N., and V.
               Ramakrishna, "Secure Asset Transfer (SAT) Interoperability
-              Architecture, IETF, draft-ietf-satp-architecture-06",
-              January 2025, <https://datatracker.ietf.org/doc/draft-
-              ietf-satp-architecture/>.
+              Architecture, IETF, draft-ietf-satp-architecture-08", July
+              2025, <https://datatracker.ietf.org/doc/draft-ietf-satp-
+              architecture/>.
 
-   [SATP]     Hargreaves, M., Hardjono, T., Belchior, R., and V.
-              Ramakrishna, "Secure Asset Transfer Protocol (SATP) Core,
-              IETF, draft-ietf-satp-core-08", January 2025,
+   [SATP]     Hargreaves, M., Hardjono, T., Belchior, R., Ramakrishna,
+              V., and A. Chiriac, "Secure Asset Transfer Protocol (SATP)
+              Core, IETF, draft-ietf-satp-core-11", August 2025,
               <https://datatracker.ietf.org/doc/draft-ietf-satp-core/>.
 
 10.2.  Informative References
@@ -972,19 +972,19 @@ Table of Contents
               Conference, Cannes, France, September 1981, pp. 144-154",
               September 1981.
 
-   [Hear19]   Hearn, M. and R. G. Brown, "Corda: A Distributed Ledger,
-              Corda Technical Whitepaper | R3", December 2019,
-              <https://www.r3.com/blog/corda-technical-whitepaper/>.
+   [Hear19]   Hearn, M. and R. G. Brown, "Corda: A Distributed Ledger",
+              August 2019, <https://docs.r3.com/en/pdf/corda-technical-
+              whitepaper.pdf>.
 
    [Herl19]   Herlihy, M., "Blockchains from a Distributed Computing
               Perspective, Communications of the ACM, vol. 62, no. 2,
               pp. 78-85", February 2019,
               <https://doi.org/10.1145/3209623>.
 
-   [HLP19]    Hardjono, T., Lipton, A., and A. Pentland, "Towards and
+   [HLP19]    Hardjono, T., Lipton, A., and A. Pentland, "Towards an
               Interoperability Architecture for Blockchain Autonomous
               Systems, IEEE Transactions on Engineering Management",
-              June 2019, <https://doi:10.1109/TEM.2019.2920154>.
+              June 2019, <https://ieeexplore.ieee.org/document/8743548>.
 
    [HS2019]   Hardjono, T. and N. Smith, "Decentralized Trusted
               Computing Base for Blockchain Infrastructure Security,
