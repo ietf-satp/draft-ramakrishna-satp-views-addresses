@@ -239,10 +239,9 @@ normative:
     title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-00
   SATP:
     author:
-    - ins: T. Hardjono
     - ins: M. Hargreaves
-    - ins: N. Smith
-    - ins: V. Ramakrishna
+    - ins: T. Hardjono
+    - ins: R. Belchior
     date: June 2023
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-core/
     title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-01
