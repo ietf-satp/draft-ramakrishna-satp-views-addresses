@@ -15,8 +15,8 @@ pi:
   compact: yes
   subcompact: no
 
-title: Secure Asset Exchange Protocol
-abbrev: SAT Asset Exchange
+title: Views and View Addresses for Secure Asset Transfer
+abbrev: SAT Views and View Addresses
 docname: draft-ramakrishna-satp-views-addresses-latest
 category: info
 
