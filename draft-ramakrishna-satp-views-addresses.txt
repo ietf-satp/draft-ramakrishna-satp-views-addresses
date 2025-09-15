@@ -5,15 +5,15 @@
 Secure Asset Transfer Protocol                            V. Ramakrishna
 Internet-Draft                                                 V. Pandit
 Intended status: Informational                              IBM Research
-Expires: 14 March 2026                                          E. Abebe
+Expires: 19 March 2026                                          E. Abebe
                                                                Consensys
                                                                S. Nishad
                                                             K. Narayanam
                                                             IBM Research
-                                                       10 September 2025
+                                                       15 September 2025
 
 
-                     Secure Asset Exchange Protocol
+           Views and View Addresses for Secure Asset Transfer
              draft-ramakrishna-satp-views-addresses-latest
 
 Abstract
@@ -73,7 +73,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 March 2026.
+   This Internet-Draft will expire on 19 March 2026.
 
 Copyright Notice
 
