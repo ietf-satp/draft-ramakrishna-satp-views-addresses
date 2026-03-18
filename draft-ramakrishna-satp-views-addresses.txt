@@ -5,12 +5,12 @@
 Secure Asset Transfer Protocol                            V. Ramakrishna
 Internet-Draft                                                 V. Pandit
 Intended status: Informational                              IBM Research
-Expires: 19 March 2026                                          E. Abebe
+Expires: 19 September 2026                                      E. Abebe
                                                                Consensys
                                                                S. Nishad
                                                             K. Narayanam
                                                             IBM Research
-                                                       15 September 2025
+                                                           18 March 2026
 
 
            Views and View Addresses for Secure Asset Transfer
@@ -73,11 +73,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 March 2026.
+   This Internet-Draft will expire on 19 September 2026.
 
 Copyright Notice
 
-   Copyright (c) 2025 IETF Trust and the persons identified as the
+   Copyright (c) 2026 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -299,7 +299,7 @@ Table of Contents
    *  Verification policy: Rules for validation of proofs associated
       with views maintained in a destination system.  If the destination
       system is a blockchain or DLT system, these rules are held in
-      consensus by nodes on the that system's ledger.
+      consensus by nodes on that system's ledger.
 
    *  View Request: A request for a made by an external party to a
       source blockchain or DLT system.  The external party may be a
@@ -930,13 +930,13 @@ Table of Contents
 
    [SATA]     Hardjono, T., Hargreaves, M., Smith, N., and V.
               Ramakrishna, "Secure Asset Transfer (SAT) Interoperability
-              Architecture, IETF, draft-ietf-satp-architecture-08", July
-              2025, <https://datatracker.ietf.org/doc/draft-ietf-satp-
-              architecture/>.
+              Architecture, IETF, draft-ietf-satp-architecture-09",
+              February 2026, <https://datatracker.ietf.org/doc/draft-
+              ietf-satp-architecture/>.
 
    [SATP]     Hargreaves, M., Hardjono, T., Belchior, R., Ramakrishna,
               V., and A. Chiriac, "Secure Asset Transfer Protocol (SATP)
-              Core, IETF, draft-ietf-satp-core-11", August 2025,
+              Core, IETF, draft-ietf-satp-core-13", March 2026,
               <https://datatracker.ietf.org/doc/draft-ietf-satp-core/>.
 
 10.2.  Informative References
@@ -971,6 +971,14 @@ Table of Contents
               Limitations, in VLDB Proceedings of the 7th International
               Conference, Cannes, France, September 1981, pp. 144-154",
               September 1981.
+
+   [Harer2022]
+              Härer, F., "Towards Interoperability of Open and
+              Permissionless Blockchains: A Cross-Chain Query Language,
+              IEEE International Conference on e-Business Engineering
+              (ICEBE), Bournemouth, United Kingdom, 2022, pp. 190-197,
+              doi: 10.1109/ICEBE55470.2022.00041", October 2022,
+              <https://ieeexplore.ieee.org/document/10035048>.
 
    [Hear19]   Hearn, M. and R. G. Brown, "Corda: A Distributed Ledger",
               August 2019, <https://docs.r3.com/en/pdf/corda-technical-
