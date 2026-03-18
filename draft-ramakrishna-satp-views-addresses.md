@@ -126,6 +126,12 @@ informative:
     - ins: J. Gray
     date: September 1981
     title: 'The Transaction Concept: Virtues and Limitations, in VLDB Proceedings of the 7th International Conference, Cannes, France, September 1981, pp. 144-154'
+  Harer2022:
+    author:
+    - ins: F. Härer
+    date: October 2022
+    target: https://ieeexplore.ieee.org/document/10035048
+    title: 'Towards Interoperability of Open and Permissionless Blockchains: A Cross-Chain Query Language, IEEE International Conference on e-Business Engineering (ICEBE), Bournemouth, United Kingdom, 2022, pp. 190-197, doi: 10.1109/ICEBE55470.2022.00041'
   Hear19:
     author:
     - ins: M. Hearn
@@ -234,9 +240,9 @@ normative:
     - ins: M. Hargreaves
     - ins: N. Smith
     - ins: V. Ramakrishna
-    date: July 2025
+    date: February 2026
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/
-    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-08
+    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-09
   SATP:
     author:
     - ins: M. Hargreaves
@@ -244,9 +250,9 @@ normative:
     - ins: R. Belchior
     - ins: V. Ramakrishna
     - ins: A. Chiriac
-    date: August 2025
+    date: March 2026
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-core/
-    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-11
+    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-13
 
 --- abstract
 
@@ -322,7 +328,7 @@ The following are some terminology used in the current document:
 
 - Access/exposure policy: Set of rules governing the release of a view to an external party (i.e., outside the source system), held in consensus by nodes on the source system's ledger.
 
-- Verification policy: Rules for validation of proofs associated with views maintained in a destination system. If the destination system is a blockchain or DLT system, these rules are held in consensus by nodes on the that system's ledger.
+- Verification policy: Rules for validation of proofs associated with views maintained in a destination system. If the destination system is a blockchain or DLT system, these rules are held in consensus by nodes on that system's ledger.
 
 - View Request: A request for a made by an external party to a source blockchain or DLT system. The external party may be a client in a destination blockchain or DLT system. The request consists of a view address and various metadata, including optionally a verification policy.
 
