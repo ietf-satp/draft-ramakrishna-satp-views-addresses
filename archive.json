@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-03-17T02:25:40.347513+00:00",
+  "timestamp": "2026-03-19T02:31:45.272778+00:00",
   "repo": "ietf-satp/draft-ramakrishna-satp-views-addresses",
   "labels": [
     {
@@ -150,6 +150,36 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOKAkZmc7Lna-e",
+      "title": "Updated references for new draft version",
+      "url": "https://github.com/ietf-satp/draft-ramakrishna-satp-views-addresses/pull/4",
+      "state": "MERGED",
+      "author": "VRamakrishna",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [
+        "VRamakrishna"
+      ],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-03-18T17:28:00Z",
+      "updatedAt": "2026-03-18T17:28:59Z",
+      "baseRepository": "ietf-satp/draft-ramakrishna-satp-views-addresses",
+      "baseRefName": "main",
+      "baseRefOid": "5510d854edc8b0353164c9c89065c40a834ab4e2",
+      "headRepository": null,
+      "headRefName": "main",
+      "headRefOid": "8bb699de9cc6b5d4c805b791359327ec56ef75ae",
+      "closedAt": "2026-03-18T17:28:59Z",
+      "mergedAt": "2026-03-18T17:28:59Z",
+      "mergedBy": "VRamakrishna",
+      "mergeCommit": {
+        "oid": "265e6410e6411d1f0a983980c0bac6b48d0f059f"
+      },
+      "comments": [],
+      "reviews": []
     }
   ]
 }
