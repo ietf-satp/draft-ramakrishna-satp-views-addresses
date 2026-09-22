@@ -45,13 +45,13 @@ author:
   -
     ins: V. Pandit
     name: Vinayaka Pandit
-    organization: IBM Research
-    email: pvinayak@in.ibm.com
+    organization: IBM Research (Retired)
+    email: vinayaka.pandit@gmail.com
   -
     ins: E. Abebe
     name: Ermyas Abebe
-    organization: Consensys
-    email: ermyas.abebe@consensys.net
+    organization: Immutable
+    email: ermyasteshome@gmail.com
   -
     ins: S. Nishad
     name: Sandeep Nishad
@@ -240,9 +240,9 @@ normative:
     - ins: M. Hargreaves
     - ins: N. Smith
     - ins: V. Ramakrishna
-    date: February 2026
+    date: September 2026
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/
-    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-09
+    title: Secure Asset Transfer (SAT) Interoperability Architecture, IETF, draft-ietf-satp-architecture-10
   SATP:
     author:
     - ins: M. Hargreaves
@@ -250,9 +250,9 @@ normative:
     - ins: R. Belchior
     - ins: V. Ramakrishna
     - ins: A. Chiriac
-    date: March 2026
+    date: September 2026
     target: https://datatracker.ietf.org/doc/draft-ietf-satp-core/
-    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-13
+    title: Secure Asset Transfer Protocol (SATP) Core, IETF, draft-ietf-satp-core-16
 
 --- abstract
 
