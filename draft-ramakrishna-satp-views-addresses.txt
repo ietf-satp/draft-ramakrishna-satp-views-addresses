@@ -3,14 +3,15 @@
 
 
 Secure Asset Transfer Protocol                            V. Ramakrishna
-Internet-Draft                                                 V. Pandit
-Intended status: Informational                              IBM Research
-Expires: 19 September 2026                                      E. Abebe
-                                                               Consensys
+Internet-Draft                                              IBM Research
+Intended status: Informational                                 V. Pandit
+Expires: 26 March 2027                            IBM Research (Retired)
+                                                                E. Abebe
+                                                               Immutable
                                                                S. Nishad
                                                             K. Narayanam
                                                             IBM Research
-                                                           18 March 2026
+                                                       22 September 2026
 
 
            Views and View Addresses for Secure Asset Transfer
@@ -73,7 +74,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 September 2026.
+   This Internet-Draft will expire on 26 March 2027.
 
 Copyright Notice
 
@@ -930,13 +931,13 @@ Table of Contents
 
    [SATA]     Hardjono, T., Hargreaves, M., Smith, N., and V.
               Ramakrishna, "Secure Asset Transfer (SAT) Interoperability
-              Architecture, IETF, draft-ietf-satp-architecture-09",
-              February 2026, <https://datatracker.ietf.org/doc/draft-
+              Architecture, IETF, draft-ietf-satp-architecture-10",
+              September 2026, <https://datatracker.ietf.org/doc/draft-
               ietf-satp-architecture/>.
 
    [SATP]     Hargreaves, M., Hardjono, T., Belchior, R., Ramakrishna,
               V., and A. Chiriac, "Secure Asset Transfer Protocol (SATP)
-              Core, IETF, draft-ietf-satp-core-13", March 2026,
+              Core, IETF, draft-ietf-satp-core-16", September 2026,
               <https://datatracker.ietf.org/doc/draft-ietf-satp-core/>.
 
 10.2.  Informative References
@@ -1040,13 +1041,13 @@ Authors' Addresses
 
 
    Vinayaka Pandit
-   IBM Research
-   Email: pvinayak@in.ibm.com
+   IBM Research (Retired)
+   Email: vinayaka.pandit@gmail.com
 
 
    Ermyas Abebe
-   Consensys
-   Email: ermyas.abebe@consensys.net
+   Immutable
+   Email: ermyasteshome@gmail.com
 
 
    Sandeep Nishad
